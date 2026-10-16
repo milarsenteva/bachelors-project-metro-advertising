@@ -1,1 +1,1 @@
-Данный код был написан в рамках финального проекта для курса по бизнес-аналитике. Основная задача исследования - определить оптимальные станции Московского метрополитена для размещения рекламы для студентов. Используемые библиотеки - cvxpy, numpy, sympy.
+This code was developed as part of the final project for a Business Analytics course. The main objective was to identify the optimal Moscow Metro stations for placing advertisements targeting students. The libraries used include CVXPY, NumPy, and SymPy.
